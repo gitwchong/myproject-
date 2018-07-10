@@ -16,3 +16,5 @@ if (DEBUG){
 }else{
     ini_set('display_error','off');
 }
+include CORE.'/common/function.php';
+dump(MYPROJECT);
