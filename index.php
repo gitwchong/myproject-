@@ -5,7 +5,7 @@
  * 2.加载函数库
  * 3.启动框架
  */
-define('MYPROJECT',realpath('/'));
+define('MYPROJECT',realpath('./'));
 define('CORE',MYPROJECT.'/core');
 define('APP',MYPROJECT.'/app');
 
