@@ -1,0 +1,15 @@
+{
+  "name" : "MYPROJECT PHP",
+  "description" : "PHP Framework",
+  "type" : "Framework",
+  "keywords" : [
+    "PHP","PHP Framework"
+  ],
+  "require" : {
+    "php" : ">= 5.5.0",
+    "filp/whoops" : "*",
+    "symfony/var-dumper":"*",
+    "catfan/medoo":"*",
+    "twig/twig":"*"
+  }
+}

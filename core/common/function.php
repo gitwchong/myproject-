@@ -1,5 +1,5 @@
 <?php
-function dump($val)
+function dump1($val)
 {
     if (is_bool($val)){
         var_dump($val);
